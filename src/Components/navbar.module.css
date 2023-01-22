@@ -1,0 +1,17 @@
+.main{
+    background-color: #F55A5A;
+    height: 55px;
+    font-size: 14.46px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    font-family: Inter;
+    font-weight: 700;
+}
+
+.img{
+    width: 24px;
+    height: 24px;
+    margin-right:10px;
+}
